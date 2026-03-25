@@ -1,0 +1,44 @@
+aid: capn-proto
+name: Cap'n Proto
+description: >-
+  Cap'n Proto is a high-performance data serialization and RPC framework that generates type-safe code with zero-copy deserialization, supporting C++, Rust, Go, Java, and other languages.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - SDKs
+  - RPC
+  - Serialization
+  - Code Generation
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/capn-proto/refs/heads/main/apis.yml
+created: '2026-03-25'
+modified: '2026-03-25'
+specificationVersion: '0.19'
+apis:
+  - aid: capn-proto:capn-proto
+    name: Cap'n Proto
+    description: >-
+      Cap'n Proto is a high-performance data serialization and RPC framework that generates type-safe code with zero-copy deserialization, supporting C++, Rust, Go, Java, and other languages.
+    humanURL: https://capnproto.org
+    tags:
+      - SDKs
+  - RPC
+  - Serialization
+  - Code Generation
+    properties:
+      - type: Documentation
+        url: https://capnproto.org/language.html
+      - type: Getting Started
+        url: https://capnproto.org/install.html
+      - type: GitHub Repository
+        url: https://github.com/capnproto/capnproto
+common:
+  - type: Website
+    url: https://capnproto.org
+  - type: Documentation
+    url: https://capnproto.org/language.html
+  - type: GitHub Organization
+    url: https://github.com/capnproto/capnproto
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
