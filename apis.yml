@@ -22,9 +22,9 @@ apis:
     humanURL: https://capnproto.org
     tags:
       - SDKs
-  - RPC
-  - Serialization
-  - Code Generation
+      - RPC
+      - Serialization
+      - Code Generation
     properties:
       - type: Documentation
         url: https://capnproto.org/language.html
