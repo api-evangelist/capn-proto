@@ -5,10 +5,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - SDKs
-  - RPC
-  - Serialization
   - Code Generation
+  - RPC
+  - SDKs
+  - Serialization
 url: >-
   https://raw.githubusercontent.com/api-evangelist/capn-proto/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -21,10 +21,10 @@ apis:
       Cap'n Proto is a high-performance data serialization and RPC framework that generates type-safe code with zero-copy deserialization, supporting C++, Rust, Go, Java, and other languages.
     humanURL: https://capnproto.org
     tags:
-      - SDKs
-      - RPC
-      - Serialization
       - Code Generation
+      - RPC
+      - SDKs
+      - Serialization
     properties:
       - type: Documentation
         url: https://capnproto.org/language.html
