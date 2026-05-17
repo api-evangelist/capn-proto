@@ -13,7 +13,7 @@ description: >-
   Go, Haskell, JavaScript/Node, OCaml, Python, Rust, C, D, Java, Lua,
   Nim, Ruby, and Scala.
 type: Index
-x-type: standard
+kind: standard
 position: Producer
 access: Open Source
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
@@ -53,7 +53,7 @@ apis:
         url: https://capnproto.org/language.html
       - type: Documentation
         url: https://capnproto.org/language.html
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/capnproto/capnproto
     x-features:
       - Struct, union, enum, interface, and group definitions
@@ -138,9 +138,9 @@ apis:
       - SDKs
       - Serialization
     properties:
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/capnproto/capnproto
-      - type: Getting Started
+      - type: GettingStarted
         url: https://capnproto.org/install.html
       - type: Documentation
         url: https://capnproto.org/cxx.html
@@ -167,7 +167,7 @@ apis:
     properties:
       - type: Documentation
         url: https://capnproto.org/otherlang.html
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/capnproto
     x-features:
       - Serialization + RPC in C++, C#, Erlang, Go, Haskell, JavaScript, OCaml, Python, Rust
@@ -183,11 +183,11 @@ common:
     url: https://capnproto.org/
   - type: Documentation
     url: https://capnproto.org/language.html
-  - type: Getting Started
+  - type: GettingStarted
     url: https://capnproto.org/install.html
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/capnproto
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/capnproto/capnproto
   - type: Discussion Group
     url: https://groups.google.com/g/capnproto
