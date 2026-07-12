@@ -179,6 +179,8 @@ apis:
       - Compiling schemas into idiomatic bindings for each language
       - Migration paths from Protocol Buffers in non-C++ codebases
 common:
+  - type: DomainSecurity
+    url: security/capn-proto-domain-security.yml
   - type: Website
     url: https://capnproto.org/
   - type: Documentation
@@ -193,6 +195,8 @@ common:
     url: https://groups.google.com/g/capnproto
   - type: License
     url: https://github.com/capnproto/capnproto/blob/master/LICENSE.txt
+  - url: https://capnproto.org/feed.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
