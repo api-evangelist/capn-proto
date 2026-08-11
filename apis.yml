@@ -191,6 +191,8 @@ apis:
       - Compiling schemas into idiomatic bindings for each language
       - Migration paths from Protocol Buffers in non-C++ codebases
 common:
+  - type: IssueTracker
+    url: https://github.com/capnproto/capnproto/issues
   - type: DomainSecurity
     url: security/capn-proto-domain-security.yml
   - type: Website
