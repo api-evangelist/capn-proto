@@ -34,6 +34,19 @@ tags:
   - Capability-Based Security
   - Code Generation
   - IPC
+  - Open-Source
+  - Protocol
+  - RPC
+  - Schema
+  - SDK
+  - Serialization
+  - Specification
+  - Zero-Copy
+tags_raw:
+  - Binary Format
+  - Capability-Based Security
+  - Code Generation
+  - IPC
   - Open Source
   - Protocol
   - RPC
@@ -88,6 +101,10 @@ apis:
       access to messages stored on disk.
     humanURL: https://capnproto.org/encoding.html
     tags:
+      - Binary Format
+      - Specification
+      - Zero-Copy
+    tags_raw:
       - Binary Format
       - Specification
       - Zero Copy
@@ -147,6 +164,10 @@ apis:
     humanURL: https://github.com/capnproto/capnproto
     tags:
       - IPC
+      - SDK
+      - Serialization
+    tags_raw:
+      - IPC
       - SDKs
       - Serialization
     properties:
@@ -173,6 +194,10 @@ apis:
       Ruby, and Scala.
     humanURL: https://capnproto.org/otherlang.html
     tags:
+      - Code Generation
+      - SDK
+      - Serialization
+    tags_raw:
       - Code Generation
       - SDKs
       - Serialization
