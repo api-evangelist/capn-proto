@@ -52,7 +52,7 @@ tags:
   - SDK
   - Serialization
   - Specification
-  - Zero Copy
+  - Zero-Copy
 tags_raw:
   - Binary Format
   - Capability-Based Security
@@ -114,7 +114,7 @@ apis:
     tags:
       - Binary Format
       - Specification
-      - Zero Copy
+      - Zero-Copy
     tags_raw:
       - Binary Format
       - Specification
