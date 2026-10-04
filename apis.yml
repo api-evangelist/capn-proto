@@ -16,6 +16,10 @@ type: Index
 kind: standard
 deliveryModel:
   model: unknown
+  license_evidence:
+    repo: capnproto/capnproto
+    spdx: NOASSERTION
+    stars: 13191
   open_source: unknown
   commercial: false
   callable_host: false
@@ -23,7 +27,7 @@ deliveryModel:
   confidence: low
   source:
   - repository-unlicensed
-  generated: '2026-08-28'
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -45,7 +49,7 @@ tags:
   - Capability-Based Security
   - Code Generation
   - IPC
-  - Open-Source
+  - Open Source
   - Protocol
   - RPC
   - Schema
@@ -66,6 +70,7 @@ tags_raw:
   - Serialization
   - Specification
   - Zero Copy
+  - Open-Source
 created: '2026-03-25'
 modified: '2026-04-23'
 specificationVersion: '0.23'
