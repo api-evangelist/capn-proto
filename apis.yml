@@ -232,6 +232,12 @@ apis:
       - Compiling schemas into idiomatic bindings for each language
       - Migration paths from Protocol Buffers in non-C++ codebases
 common:
+  - type: Plans
+    url: plans/capn-proto-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/capn-proto-rate-limits.yml
+  - type: FinOps
+    url: finops/capn-proto-finops.yml
   - type: IssueTracker
     url: https://github.com/capnproto/capnproto/issues
   - type: DomainSecurity
